@@ -1,0 +1,28 @@
+Este arquivo pode ser deletado depois que tiver outro aruivo neste pacote/diretorio,
+ele serve para manter a estruruda de pastas somente.
+
+fonte tilulo/label/
+Tamanho:  12 - Negrito
+Tahoma
+
+
+fonte campos
+tamanho: 14 - simples
+Tahoma
+
+botão principal
+tamanho: 14 negrito
+Tahoma
+
+
+botão comum
+tamanho: 11 - negrito
+Tahoma
+
+
+tamanho campos
+tamanho vertical - Altura: 33
+
+
+tamanho botão
+tamanho vertical - altura 38

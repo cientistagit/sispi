@@ -1,0 +1,17 @@
+Site para pegar os icones
+
+colocar sempre na pasta imagens 
+
+http://flaticons.net/category.php?c=Application
+
+Dimensions: 24 px
+Padding: 12 px
+
+
+color: 000000
+
+
+Tamanho do botão
+
+tamanho horizontal: 128
+tamanho vertical: 56

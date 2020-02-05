@@ -1,0 +1,2 @@
+Este arquivo pode ser deletado depois que tiver outro aruivo neste pacote/diretorio,
+ele serve para manter a estruruda de pastas somente.
